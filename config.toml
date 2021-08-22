@@ -29,6 +29,9 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   disable_csp = false # Optional, set true to disable content security policy
   images = ["/img/logo-@ac-cuadrado.png"] # Suggested, controls default Open Graph images
 
+[params.hackcss]
+  palette = "solarized-dark"
+
 [[menu.main]]
   name = "Home"
   weight = 1
