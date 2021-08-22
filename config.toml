@@ -30,7 +30,6 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   images = ["/img/logo-@ac-cuadrado.png"] # Suggested, controls default Open Graph images
 
 [params.hackcss]
-  mode = "standard"
   palette = "solarized-dark"
 
 [[menu.main]]
