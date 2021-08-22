@@ -5,15 +5,9 @@ draft: false
 tags: ["afp", "opinion", "libre mercado"]
 description: "Bendito Mercado"
 cover: https://a.geek.cl/img/02/equidad-bendito-mercado.jpeg
-lua:
-  image:
-    url: "/img/02/equidad-bendito-mercado.jpeg"
-    width: 357
-    height: 500
-  author: "Arturo C."
 ---
 ![Equidad Bendito Mercado](/img/02/equidad-bendito-mercado.jpeg)
-<cite>Fotografía Por ~ [Wesley Tingey](https://unsplash.com/@wesleyphotography)</cite>
+*Fotografía Por ~ [Wesley Tingey](https://unsplash.com/@wesleyphotography)*
 
 Se rebalsó el vaso, el [Maldito Libre Mercado](/maldito-libre-mercado/) tiene sus días contados. Para los *<<afortunados>>* de siempre es una catástrofe, para el resto, la gran mayoría, se instala la esperanza de mayor equidad y justicia social. 
 
