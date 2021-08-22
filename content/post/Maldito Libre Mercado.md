@@ -12,8 +12,9 @@ lua:
     height: 214
   author: "Arturo C."
 ---
-![Maldito Libre Mercado](/img/09/hanson-lu-sq5P00L7lXc-unsplash.jpg#c)<br \>
-<cite>Fotografía Por ~ [Hanson Lu](https://unsplash.com/@hansonluu)</cite>
+![Maldito Libre Mercado](/img/09/hanson-lu-sq5P00L7lXc-unsplash.jpg)
+
+Fotografía Por ~ [Hanson Lu](https://unsplash.com/@hansonluu)
 
 Me apesta y me desanima lo desprotegidos que estamos en general, no sólo en Chile, ante el [Libre Mercado](https://es.wikipedia.org/wiki/Mercado_libre).
 

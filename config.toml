@@ -1,7 +1,7 @@
 baseurl = "https://a.geek.cl" # Controls base URL sitewide
 languageCode = "es-CL" # Controls site language
 title = "@Arturo" # Homepage title and page title suffix
-paginate = 11 # Number of posts to show before paginating
+paginate = 5 # Number of posts to show before paginating
 copyright = "Esta obra está bajo una licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional." # Optional, remove to suppress copyright notices
 
 # Controls default theme and theme components
@@ -13,6 +13,7 @@ theme = [
 disableLiveReload = false # Optional, set true to disable live reload
 enableRobotsTXT = true # Suggested, enable robots.txt file
 sectionPagesMenu = "main" # Enable menu system for lazy bloggers
+footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 
 [markup.goldmark.renderer]
   unsafe = true # Optional, allows HTML inside your CommonMark content
