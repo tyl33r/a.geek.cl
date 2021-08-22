@@ -1,4 +1,4 @@
-baseurl = "https://a.geeek.cl" # Controls base URL sitewide
+baseurl = "https://a.geek.cl" # Controls base URL sitewide
 languageCode = "es-CL" # Controls site language
 title = "@Arturo" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
@@ -45,7 +45,7 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 
 [params.layout.menu.main]
-  hidden = true # Optional, set false or remove to show section menu
+  hidden = false # Optional, set false or remove to show section menu
 
 [params.layout.footer]
   hidden = false # Optional, set true to hide footer
