@@ -1,5 +1,5 @@
 +++
-title = "Mate Mañanita"
+title = "Mate Mananita"
 date = 2021-10-28T18:33:17-03:00
 description = "Declaración de amor hacia la yerba mate Mañanita."
 draft = false
